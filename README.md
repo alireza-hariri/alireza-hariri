@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<p align="center">As a developer, I love to make things happen an That's why I’m excited to work with good teams.</p>
+<p align="center">A Python developer.</p>
 
 
 
